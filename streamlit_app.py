@@ -3,11 +3,6 @@ from PIL import Image, ImageOps
 import numpy as np
 import pickle as pk
 
-import os
-os.system("pip install Orange3")
-
-import Orange
-
 WIDTH = HEIGHT = 28
 THRESHOLD = 100
 
