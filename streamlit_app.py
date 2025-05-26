@@ -2,6 +2,7 @@ import streamlit as st
 from PIL import Image, ImageOps
 import numpy as np
 import pickle as pk
+import Orange
 
 WIDTH = HEIGHT = 28
 THRESHOLD = 100
