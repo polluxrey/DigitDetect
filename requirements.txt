@@ -1,4 +1,4 @@
-orange3==3.35.0
+orange3==3.38.1
 pandas==2.1.4
 numpy==1.26.4
 scikit-learn==1.5.2
